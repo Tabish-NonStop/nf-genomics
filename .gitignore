@@ -1,5 +1,5 @@
-.netflow*
-.netflow.log
+.nextflow*
+.nextflow.log
 .nextflow/
 work/
 results/
