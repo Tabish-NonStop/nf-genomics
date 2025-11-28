@@ -8,3 +8,10 @@ NOTE: This pipeline was created as a part of the training provided by [Nextflow]
 <p align="center">
   <img src="arc/Genomics-Joint_Variant_Calling.png" width="500">
 </p>
+
+# Run the pipeline
+
+
+```bash
+nextflow run pipeline.nf
+```
